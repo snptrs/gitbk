@@ -1,0 +1,22 @@
+{
+  "name": "gb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snptrs/gitbk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snptrs/gitbk/issues"
+  },
+  "homepage": "https://github.com/snptrs/gitbk#readme",
+  "dependencies": {
+    "gitbook": "^3.2.3"
+  }
+}
