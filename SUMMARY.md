@@ -4,5 +4,5 @@
 
 ### Coding
 
-* [Javascript](javascript/README.md)
+* Javascript
   * [Arrays](javascript/arrays.md)
