@@ -11,5 +11,3 @@ function testfunc() {
   console.log("blah")
 }
 ```
-
-{% gist id="snptrs/fd8278871c9b9c97eb66f6a905075571" %}{% endgist %}
