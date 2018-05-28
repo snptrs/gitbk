@@ -1,5 +1,5 @@
 {
-  "plugins": ["-sharing", "page-toc-optional", "github-edit", "auto-summary"],
+  "plugins": ["-sharing", "page-toc-optional", "github-edit"],
   "pluginsConfig":
   {
     "github-edit":
@@ -10,14 +10,6 @@
     "page-toc-optional":
     {
       "showByDefault": true
-    },
-    "auto-summary":
-    {
-      "parts":
-      {
-        "README.md": "Part I",
-        "javascript/**/*.md": "Part II"
-      }
     }
   }
 }
