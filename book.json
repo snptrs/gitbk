@@ -1,5 +1,5 @@
 {
-   "plugins": ["-sharing", "summary", "github-edit"],
+   "plugins": ["-sharing", "auto-summary", "github-edit"],
    "pluginsConfig": {
       "github-edit": {
          "repo": "snptrs/gitbook",
