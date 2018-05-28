@@ -13,8 +13,8 @@
 * Books
   * Tester
     * And another
-  * But this is outdented
+* [But this is outdented](javascript/arrays.md)
 
----
+----
 
 this is some text
