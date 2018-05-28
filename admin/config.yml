@@ -9,3 +9,4 @@ collections:
   - name: "page"
     label: "Page"
     folder: "/"
+    create: true # Allow users to create new documents in this collection
