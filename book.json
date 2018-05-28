@@ -1,15 +1,12 @@
 {
-   "plugins": ["-sharing", "auto-summary", "github-edit"],
+   "plugins": ["-sharing", "page-toc-optional", "github-edit"],
    "pluginsConfig": {
       "github-edit": {
          "repo": "snptrs/gitbook",
          "branch": "master"
+      },
+      "page-toc-optional": {
+         "showByDefault": false
       }
-    },
-    "auto-summary": {
-        "parts": { 
-           "README.md": "Intro",
-           "javascript/**/*.md": "Coding"
-        }      
-    }
+   }
 }
