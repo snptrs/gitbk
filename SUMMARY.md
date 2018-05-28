@@ -11,7 +11,7 @@
 
 ## Books
 
-* Books
+* [Books](books/README.md)
   * Tester
     * And another
 * [But this is outdented](javascript/arrays.md)
