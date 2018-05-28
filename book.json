@@ -6,7 +6,7 @@
          "branch": "master"
       },
       "page-toc-optional": {
-         "showByDefault": false
+         "showByDefault": true
       }
    }
 }
