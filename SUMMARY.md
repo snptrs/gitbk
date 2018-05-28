@@ -2,11 +2,17 @@
 
 * [Introduction](README.md)
 
-### Coding
+## Coding
 
 * [Javascript](javascript/README.md)
 
-### Books
+----
 
-* [Books](books/README.md)
-  ### Notes
+## Books
+
+* Books
+  * Tester
+    * And another
+  * But this is outdented
+
+---
