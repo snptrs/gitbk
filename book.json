@@ -1,5 +1,5 @@
 {
-  "plugins": ["-sharing", "page-toc-optional", "github-edit", "collapse-expand-chapters"],
+  "plugins": ["-sharing", "page-toc-optional", "github-edit", "collapsible-menu"],
   "pluginsConfig":
   {
     "github-edit":
