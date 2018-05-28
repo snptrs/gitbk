@@ -5,6 +5,7 @@
 ## Coding
 
 * [Javascript](javascript/README.md)
+  * [Arrays](javascripts/arrays.md)
 
 ----
 
