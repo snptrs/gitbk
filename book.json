@@ -5,5 +5,11 @@
          "repo": "snptrs/gitbook",
          "branch": "master"
       }
+    },
+    "auto-summary": {
+        "parts": { 
+           "README.md": "Intro",
+           "javascript/**/*.md": "Coding"
+        }      
     }
 }
