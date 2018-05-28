@@ -9,5 +9,4 @@
 ### Books
 
 * [Books](books/README.md)
-  * [Read](books/read.md)
-  * Notes
+  ### Notes
