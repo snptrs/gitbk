@@ -1,12 +1,23 @@
 {
-   "plugins": ["-sharing", "page-toc-optional", "github-edit"],
-   "pluginsConfig": {
-      "github-edit": {
-         "repo": "snptrs/gitbook",
-         "branch": "master"
-      },
-      "page-toc-optional": {
-         "showByDefault": true
+  "plugins": ["-sharing", "page-toc-optional", "github-edit", "auto-summary"],
+  "pluginsConfig":
+  {
+    "github-edit":
+    {
+      "repo": "snptrs/gitbook",
+      "branch": "master"
+    },
+    "page-toc-optional":
+    {
+      "showByDefault": true
+    },
+    "auto-summary":
+    {
+      "parts":
+      {
+        "README.md": "Part I",
+        "javascript/**/*.md": "Part II"
       }
-   }
+    }
+  }
 }
