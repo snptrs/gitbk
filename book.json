@@ -1,3 +1,9 @@
 {
-   "plugins": ["-sharing"]
+   "plugins": ["-sharing", "summary", "github-edit"],
+   "pluginsConfig": {
+      "github-edit": {
+         "repo": "snptrs/gitbook",
+         "branch": "master"
+      }
+    }
 }
