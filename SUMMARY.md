@@ -12,8 +12,7 @@
 ## Books
 
 * [Books](books/README.md)
-  * Tester
-    * And another
+  * [Read](books/read.md)
 * [But this is outdented](javascript/arrays.md)
 
 ----
